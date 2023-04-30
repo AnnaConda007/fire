@@ -1,0 +1,22 @@
+{
+  "name": "fire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaConda007/fire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaConda007/fire/issues"
+  },
+  "homepage": "https://github.com/AnnaConda007/fire#readme",
+  "dependencies": {
+    "firebase": "^9.21.0"
+  }
+}
